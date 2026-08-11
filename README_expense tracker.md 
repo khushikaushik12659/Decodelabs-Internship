@@ -1,0 +1,15 @@
+# Expense Tracker
+
+ Description
+A simple Python program to calculate the total expenses entered by the user.
+
+ How to Run
+1. Make sure Python 3 is installed.
+2. Open the project in VS Code.
+3. Run "expense_tracker.py".
+4. Enter expenses one by one.
+5. Type "done" to finish.
+6. The program displays the total amount spent.
+
+Technology Used
+- Python
